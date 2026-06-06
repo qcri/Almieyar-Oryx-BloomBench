@@ -1,0 +1,1095 @@
+Hierarchy,Leaf,Description,Source / Example,
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,Technology & Electronics,"This task evaluates the VLM's ability to precisely identify and recall 'Technology & Electronics' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Technology & Electronics' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Technology & Electronics' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Technology & Electronics' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Technology & Electronics' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,Artifacts,"This task evaluates the VLM's ability to precisely identify and recall 'Artifacts' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Artifacts' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Artifacts' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Artifacts' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Artifacts' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,Food & Beverage,"This task evaluates the VLM's ability to precisely identify and recall 'Food & Beverage' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Food & Beverage' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Food & Beverage' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Food & Beverage' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Food & Beverage' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,Vehicles,"This task evaluates the VLM's ability to precisely identify and recall 'Vehicles' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Vehicles' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Vehicles' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Vehicles' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Vehicles' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,Arts,"This task evaluates the VLM's ability to precisely identify and recall 'Arts' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Arts' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Arts' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Arts' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Arts' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,Indoor Scenes,"This task evaluates the VLM's ability to precisely identify and recall 'Indoor Scenes' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Indoor Scenes' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Indoor Scenes' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Indoor Scenes' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Indoor Scenes' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,Outdoor Scenes,"This task evaluates the VLM's ability to precisely identify and recall 'Outdoor Scenes' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Outdoor Scenes' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Outdoor Scenes' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Outdoor Scenes' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Outdoor Scenes' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,Clothing & Accessories,"This task evaluates the VLM's ability to precisely identify and recall 'Clothing & Accessories' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Clothing & Accessories' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Clothing & Accessories' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Clothing & Accessories' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Clothing & Accessories' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,Produce & Plants,"This task evaluates the VLM's ability to precisely identify and recall 'Produce & Plants' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Produce & Plants' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Produce & Plants' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Produce & Plants' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Produce & Plants' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,People,"This task evaluates the VLM's ability to precisely identify and recall 'People' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'People' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'People' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'People' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'People' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,Animals,"This task evaluates the VLM's ability to precisely identify and recall 'Animals' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Animals' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Animals' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Animals' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Animals' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Core Object Recognition,Common Objects,"This task evaluates the VLM's ability to precisely identify and recall 'Common Objects' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Common Objects' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Common Objects' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Common Objects' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Common Objects' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Text Attribute Recognition -> Text,Newletter,"This task evaluates the VLM's ability to precisely identify and recall 'Newletter' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Newletter' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Newletter' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Newletter' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Newletter' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Text Attribute Recognition -> Text,Power Point Slides,"This task evaluates the VLM's ability to precisely identify and recall 'Power Point Slides' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Power Point Slides' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Power Point Slides' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Power Point Slides' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Power Point Slides' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Text Attribute Recognition -> Text,Handwriting,"This task evaluates the VLM's ability to precisely identify and recall 'Handwriting' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Handwriting' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Handwriting' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Handwriting' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Handwriting' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Text Attribute Recognition -> Text,Documents,"This task evaluates the VLM's ability to precisely identify and recall 'Documents' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Documents' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Documents' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Documents' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Documents' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Text Attribute Recognition -> Text,Books,"This task evaluates the VLM's ability to precisely identify and recall 'Books' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Books' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Books' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Books' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Books' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Text Attribute Recognition -> Text,Lines,"This task evaluates the VLM's ability to precisely identify and recall 'Lines' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Lines' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Lines' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Lines' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Lines' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Text Attribute Recognition -> Text,Scene Text,"This task evaluates the VLM's ability to precisely identify and recall 'Scene Text' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Scene Text' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Scene Text' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Scene Text' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Scene Text' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Text Attribute Recognition,Emoji,"This task evaluates the VLM's ability to precisely identify and recall 'Emoji' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Emoji' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Emoji' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Emoji' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Emoji' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Text Attribute Recognition,Number,"This task evaluates the VLM's ability to precisely identify and recall 'Number' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Number' from similar objects and background noise based on distinct visual features and learned categories.
+","Image Context: A high-resolution, busy scene where 'Number' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Number' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Number' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Text Attribute Recognition,Music,"This task evaluates the VLM's ability to precisely identify and recall 'Music' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Music' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Music' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Music' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Music' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Text Attribute Recognition,Formula,"This task evaluates the VLM's ability to precisely identify and recall 'Formula' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Formula' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Formula' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Formula' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Formula' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Attribute Recognition,Color,"This task evaluates the VLM's fundamental perceptual layer. It tests the model's ability to recognize and name the specific attribute Color as a discrete property of a standard object, requiring only basic visual identification without contextual reasoning.","Image Context: A high-resolution, busy scene where 'Color' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Color' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Color' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Attribute Recognition,Shape,"This task evaluates the VLM's fundamental perceptual layer. It tests the model's ability to recognize and name the specific attribute Shape as a discrete property of a standard object, requiring only basic visual identification without contextual reasoning.","Image Context: A high-resolution, busy scene where 'Shape' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Shape' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Shape' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Attribute Recognition,Size,"This task evaluates the VLM's fundamental perceptual layer. It tests the model's ability to recognize and name the specific attribute size as a discrete property of a standard object, requiring only basic visual identification without contextual reasoning.","Image Context: A high-resolution, busy scene where 'Size' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Size' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Size' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Attribute Recognition,Texture,"This task evaluates the VLM's fundamental perceptual layer. It tests the model's ability to recognize and name the specific attribute texture as a discrete property of a standard object, requiring only basic visual identification without contextual reasoning.","Image Context: A high-resolution, busy scene where 'Texture' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Texture' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Texture' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Attribute Recognition,Artistic Style,"This task evaluates the VLM's fundamental perceptual layer. It tests the model's ability to recognize and name the specific attribute artistic style as a discrete property of a standard object, requiring only basic visual identification without contextual reasoning.","Image Context: A high-resolution, busy scene where 'Artistic Style' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Artistic Style' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Artistic Style' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Symbol Recognition,Traffic Signs,"This task evaluates the VLM's ability to precisely identify and recall 'Traffic Signs' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Traffic Signs' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Traffic Signs' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Traffic Signs' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Traffic Signs' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Symbol Recognition,Safety Symbols,"This task evaluates the VLM's ability to precisely identify and recall 'Safety Symbols' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Safety Symbols' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Safety Symbols' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Safety Symbols' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Safety Symbols' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Symbol Recognition,Logos & Brands,"This task evaluates the VLM's ability to precisely identify and recall 'Logos & Brands' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Logos & Brands' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Logos & Brands' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Logos & Brands' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Logos & Brands' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Symbol Recognition,App & Tech Icons,"This task evaluates the VLM's ability to precisely identify and recall 'App & Tech Icons' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'App & Tech Icons' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'App & Tech Icons' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'App & Tech Icons' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'App & Tech Icons' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Symbol Recognition,Currency Symbols,"This task evaluates the VLM's ability to precisely identify and recall 'Currency Symbols' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Currency Symbols' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Currency Symbols' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Currency Symbols' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Currency Symbols' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Symbol Recognition,Religious Symbols,"This task evaluates the VLM's ability to precisely identify and recall 'Religious Symbols' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Religious Symbols' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Religious Symbols' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Religious Symbols' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Religious Symbols' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Symbol Recognition,Flags,"This task evaluates the VLM's ability to precisely identify and recall 'Flags' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Flags' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Flags' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Flags' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Flags' is actually a visually similar but different category.",
+Remember -> Recognition -> Object Recognition -> Symbol Recognition,Astrological & Zodiac Signs,"This task evaluates the VLM's ability to precisely identify and recall 'Astrological & Zodiac Signs' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Astrological & Zodiac Signs' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Astrological & Zodiac Signs' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Astrological & Zodiac Signs' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Astrological & Zodiac Signs' is actually a visually similar but different category.",
+Remember -> Recognition -> Activity Recognition,Individual activities,"This task evaluates the VLM's ability to precisely identify and recall 'Individual activities' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Individual activities' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Individual activities' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Individual activities' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Individual activities' is actually a visually similar but different category.",
+Remember -> Recognition -> Activity Recognition,Interactions,"This task evaluates the VLM's ability to precisely identify and recall 'Interactions' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Interactions' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Interactions' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Interactions' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Interactions' is actually a visually similar but different category.",
+Remember -> Recognition -> Activity Recognition,Professions,"This task evaluates the VLM's ability to precisely identify and recall 'Professions' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Professions' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Professions' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Professions' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Professions' is actually a visually similar but different category.",
+Remember -> Recognition,Relation Among Objects,"This task evaluates the VLM's ability to precisely identify and recall 'Relation Among Objects' within a complex visual environment. It focuses on the model's capacity for fine-grained recognition, requiring it to differentiate 'Relation Among Objects' from similar objects and background noise based on distinct visual features and learned categories.","Image Context: A high-resolution, busy scene where 'Relation Among Objects' is integrated into the environment (e.g., on a shelf, in a crowd, or as part of a landscape). The visibility might be slightly challenging due to lighting or perspective.
+
+Question: Based on a detailed scan of the image, which of the following accurately describes the specific 'Relation Among Objects' present in the scene?
+
+(A) It is the primary subject in the foreground with no obstructions.
+
+(B) It is a secondary object located in the middle-ground, partially occluded by another element.
+
+(C) It appears multiple times in different variations across the scene.
+
+(D) The object labeled as 'Relation Among Objects' is actually a visually similar but different category.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,Technology & Electronics,"Evaluates the VLM's ability to interpret the operational state or functional context of electronic devices. It requires understanding what a device is currently doing (e.g., charging, displaying an error, or being used for a specific task).","""Image Context: A smartphone on a nightstand with a glowing green battery icon and a '100%' text overlay. Question: Based on the visual indicators on the device, what is its current power status? (A) It is actively charging but low. (B) It has completed its charging cycle. (C) It is powered off. (D) It is displaying a system failure warning.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,Artifacts,"This task measures the model's comprehension of the semantic and contextual meaning of 'Artifacts'. It requires the VLM to interpret how 'Artifacts' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Artifacts' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Artifacts' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,Food & Beverage,"This task measures the model's comprehension of the semantic and contextual meaning of 'Food & Beverage'. It requires the VLM to interpret how 'Food & Beverage' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Food & Beverage' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Food & Beverage' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,Vehicles,"Interprets the situational context or mechanical state of a vehicle. This goes beyond naming the car to understanding its behavior in the scene (e.g., emergency status, parking violation, or mechanical failure).","Image Context: A car stopped on the shoulder of a highway with its hood popped open and white vapor rising from the engine. Question: Based on the visual evidence, what is the most likely reason for the vehicle's current position? (A) The driver is performing a routine tire change. (B) The vehicle has experienced an engine overheat or failure. (C) The vehicle is parked legally for a rest stop. (D) The vehicle is preparing to enter a race.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,Arts,"This task measures the model's comprehension of the semantic and contextual meaning of 'Arts'. It requires the VLM to interpret how 'Arts' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Arts' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Arts' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,Indoor Scenes,"This task measures the model's comprehension of the semantic and contextual meaning of 'Indoor Scenes'. It requires the VLM to interpret how 'Indoor Scenes' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Indoor Scenes' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Indoor Scenes' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,Outdoor Scenes,"This task measures the model's comprehension of the semantic and contextual meaning of 'Outdoor Scenes'. It requires the VLM to interpret how 'Outdoor Scenes' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Outdoor Scenes' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Outdoor Scenes' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,Clothing & Accessories,"This task measures the model's comprehension of the semantic and contextual meaning of 'Clothing & Accessories'. It requires the VLM to interpret how 'Clothing & Accessories' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Clothing & Accessories' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Clothing & Accessories' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,Produce & Plants,"This task measures the model's comprehension of the semantic and contextual meaning of 'Produce & Plants'. It requires the VLM to interpret how 'Produce & Plants' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Produce & Plants' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Produce & Plants' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,People,"This task measures the model's comprehension of the semantic and contextual meaning of 'People'. It requires the VLM to interpret how 'People' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'People' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'People' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,Animals,"Evaluates the VLM's understanding of animal behavior and their relationship to the environment. It requires the model to interpret 'what' the animal is doing or its current state (e.g., hunting, sleeping, or acting defensively).","Image Context: A dog standing near a door with a leash in its mouth, tail wagging, looking up at a coat rack. Question: Considering the dog's behavior and the objects nearby, what is the most plausible interpretation of the dog's intent? (A) It is guarding the house from an intruder. (B) It is signaling that it wants to go for a walk. (C) It is displaying signs of aggression toward the leash. (D) It is preparing to go to sleep.",
+Understand -> Compositional Object Recognition -> Core Object Recognition,Common Objects,"This task measures the model's comprehension of the semantic and contextual meaning of 'Common Objects'. It requires the VLM to interpret how 'Common Objects' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Common Objects' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Common Objects' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand -> Compositional Object Recognition -> Attribute Recognition,Color,"This task measures the model's comprehension of why a specific  'Color' is present or what it signifies in a functional setting. It requires the model to interpret the relationship between the attribute and the overall scene context (e.g., a red light meaning 'stop' rather than just 'red').","Image Context: A complex scene where the Color serves a specific purpose (e.g., a bright yellow [Color] used for a safety vest in a construction zone). Question: Based on the surrounding environment, what is the primary significance of the Color shown on the central subject? (A) It is used to enhance visibility for safety. (B) It is a purely decorative choice with no function. (C) It indicates the object is broken. (D) It is used to camouflage the subject.",
+Understand -> Compositional Object Recognition -> Attribute Recognition,Shape,"Tests the model's ability to interpret the functional or symbolic meaning of a shape. For example, recognizing that a hexagonal red shape signifies a 'stop' command or that an arrow shape indicates direction.","""Image Context: A floor plan or map where various rooms are marked with different geometric shapes (e.g., a blue square for 'Exits'). Question: In this specific visual system, what does the presence of a blue square signify to the viewer? (A) It is a purely decorative tile. (B) It indicates the location of a designated exit point. (C) It marks a hazard zone. (D) It represents the center of the building.",
+Understand -> Compositional Object Recognition -> Attribute Recognition,Size,"This task measures the model's comprehension of the semantic and contextual meaning of 'Size'. It requires the VLM to interpret how 'Size' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Size' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Size' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand -> Compositional Object Recognition -> Attribute Recognition,Texture,"This task measures the model's comprehension of the semantic and contextual meaning of 'Texture'. It requires the VLM to interpret how 'Texture' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Texture' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Texture' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand -> Compositional Object Recognition -> Attribute Recognition,Artistic Style,Measures the VLM's ability to categorize the 'mood' or 'intent' conveyed by an artistic style. It asks how the style affects the interpretation of the subject matter.,"Image Context: A portrait of a city street rendered in a dark, 'Film Noir' style with high-contrast shadows and rain-slicked pavement. Question: How does the chosen artistic style contribute to the overall mood of the scene? (A) It creates a cheerful and sunny atmosphere. (B) It evokes a sense of mystery, tension, or gloom. (C) It suggests a futuristic and high-tech setting. (D) It makes the scene look like a children's cartoon.",
+Understand -> Closed Vocabulary Object Detection,Closed Vocabulary Object Detection,"This task tests the VLM's ability to selectively search for and verify the presence of a specific, pre-defined list of items within a complex or cluttered scene. It requires the model to filter out non-target objects and perform precise categorical verification.","Image Context: A tabletop covered in various office supplies (pens, stapler, paperclips) and kitchen items (spoon, mug). Question: From the following list [Stapler, Spoon, Battery, Watch], which items are visually present in the image? (A) Stapler and Spoon (B) Stapler and Watch (C) All of them (D) Only the mug.",
+Understand ,Categorical Subsumption,"Tests categorizing a specific object into a broader conceptual hierarchy (e.g., Wrench -> Plumbing Tool).","""Image: A specific tool. Q: Which category does this belong to? (A) Carpentry (B) Plumbing (C) Electrical (D) Automotive""",
+Understand -> Lingual Expression Alternation,Direct (synonym),This task requires the VLM to map indirect linguistic descriptions or conceptual changes to specific visual pixels. It tests the model's ability to 'translate' between non-literal text (like an idiom) and the physical evidence in the image.,"""Image Context: A high-resolution photo of a very old, weathered wooden bucket sitting next to a modern well. The prompt uses the word 'pail' instead of 'bucket.' Question: The scene contains an aged 'pail' used for water retrieval. Which visual detail confirms the item's identity despite its specialized name? (A) The cylindrical shape and the presence of a metal handle at the top. (B) The reflection of the sun on the water inside the well. (C) The modern design of the well's crank mechanism. (D) The lack of any objects capable of holding liquid.""",
+Understand -> Lingual Expression Alternation -> Indirect,Idiomatic Expressions,"""Tests the model's ability to recognize a visual 'grounding' of an abstract idiom. The model must understand that the literal objects in the image (e.g., a 'cold shoulder' or 'spilled milk') represent a non-literal social or emotional concept.""","""Image Context: A wide-angle shot of two people at a dinner table. One person is leaning forward to talk, while the other has their back turned completely, looking out a window with a stern expression. Question: Which common idiomatic expression is visually 'enacted' by the character on the right side of the frame? (A) 'Giving someone the cold shoulder' through their physical orientation and avoidance. (B) 'A piece of cake' due to the dessert placed in the center of the table. (C) 'Crying over spilled milk' indicated by the glass on the floor. (D) 'Walking on eggshells' as shown by the person's careful posture.""",
+Understand -> Lingual Expression Alternation -> Indirect,Entity or Concept Identification from Description,"""Assesses the model's ability to find a specific object based on a descriptive, functional definition rather than a simple name. This forces the VLM to analyze 'what an object does' rather than just 'what it is called.'""","""Image Context: A complex surgical room or workshop with dozens of specialized instruments. The question describes an object as 'a tool used for applying precise, localized heat to fuse metal components.' Question: Based on the functional description provided, identify the specific entity in the scene being referred to. (A) The handheld soldering iron being gripped by the technician. (B) The overhead LED lighting array. (C) The protective goggles resting on the workbench. (D) The digital monitor displaying the system vitals.""",
+Understand -> Lingual Expression Alternation -> Indirect,Passive Sentence Interpretation,"""Evaluates if the VLM can correctly assign 'roles' (Subject vs. Object) when the language is passive. This ensures the model isn't just detecting keywords but understands the direction of the action (e.g., 'The dog was chased by the cat').""","""Image Context: A clear action shot where a large wave is crashing over a small lighthouse on a rocky cliff. Question: Consider the sentence: 'The coastal structure is being engulfed by the rising tide.' Which visual element serves as the 'patient' (the one being acted upon) in this passive scenario? (A) The lighthouse, which is stationary and receiving the impact. (B) The ocean water, which is the primary source of the motion. (C) The birds flying away from the storm in the background. (D) The sun setting behind the clouds.""",
+Understand -> Visual Alternation,Object Changes,"""Tests the model's ability to interpret the 'before and after' logic or the transformation of an object. It requires the model to understand the state of an object as a result of a specific change (e.g., melting, breaking, or being assembled).""","""Image Context: An image of a candle that has almost entirely burned down, with a large pool of dried wax at its base and a very short, blackened wick. Question: Based on the current physical state of the object, what is the primary visual evidence of the 'change' it has undergone? (A) The accumulated wax at the base, indicating long-term combustion and melting. (B) The height of the table on which the candle is placed. (C) The color of the unburned wax remaining in the center. (D) The fact that the candle is currently unlit.""",
+Understand,Facial & Emotional Understanding,"This task measures the model's comprehension of the semantic and contextual meaning of 'Facial & Emotional Understanding'. It requires the VLM to interpret how 'Facial & Emotional Understanding' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Facial & Emotional Understanding' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Facial & Emotional Understanding' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Understand,Semantic Understanding (Knowledge),"This task measures the model's comprehension of the semantic and contextual meaning of 'Semantic Understanding (Knowledge)'. It requires the VLM to interpret how 'Semantic Understanding (Knowledge)' interacts with its surroundings or how it represents a concept beyond simple object labeling, involving translation between visual cues and higher-level descriptions.","Image Context: A scene where 'Semantic Understanding (Knowledge)' is shown in a specific state or relationship (e.g., a person's expression reacting to an event, or an object placed in a symbolic arrangement). The meaning is derived from the interaction of multiple elements.
+
+Question: Considering the overall context and the specific role of 'Semantic Understanding (Knowledge)' in this image, what is the most accurate conclusion about its significance?
+
+(A) It serves a purely functional role with no impact on the scene's narrative.
+
+(B) Its current state or position provides a key cue to the underlying message or emotion being conveyed.
+
+(C) It represents a direct contradiction to the typical use of such an item in this setting.
+
+(D) It is an auxiliary detail that provides environmental context but no semantic information.",
+Apply -> Basic Logic Operation,Word Order Understanding,"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Word Order Understanding'. The model must extract precise values or states from the image and process them through the logic of 'Word Order Understanding' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Word Order Understanding' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Word Order Understanding' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Word Order Understanding' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply -> Basic Logic Operation,Negation Understanding,"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Negation Understanding'. The model must extract precise values or states from the image and process them through the logic of 'Negation Understanding' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Negation Understanding' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Negation Understanding' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Negation Understanding' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply -> Basic Logic Operation,Coordination Interpretation,"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Coordination Interpretation'. The model must extract precise values or states from the image and process them through the logic of 'Coordination Interpretation' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Coordination Interpretation' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Coordination Interpretation' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Coordination Interpretation' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply,Conceptual Understanding (changing one at a time - non-typical),"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Conceptual Understanding (changing one at a time - non-typical)'. The model must extract precise values or states from the image and process them through the logic of 'Conceptual Understanding (changing one at a time - non-typical)' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Conceptual Understanding (changing one at a time - non-typical)' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Conceptual Understanding (changing one at a time - non-typical)' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Conceptual Understanding (changing one at a time - non-typical)' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply,Spatial reasoning,"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Spatial reasoning'. The model must extract precise values or states from the image and process them through the logic of 'Spatial reasoning' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Spatial reasoning' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Spatial reasoning' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Spatial reasoning' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply,Physics-Based Spatial Reasoning,"Predict the physical outcome or stability resulting from the spatial arrangement (e.g., applying gravity rules).","""Image: Stack of blocks. Q: If the bottom block is removed, what happens? (A) Stable (B) Fall left (C) Collapse (D) Top falls""",
+Apply,Object Counting,"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Object Counting'. The model must extract precise values or states from the image and process them through the logic of 'Object Counting' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Object Counting' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Object Counting' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Object Counting' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply,Constraint-Based Counting,"Requires the VLM to apply a specific filter or condition before counting (e.g., 'How many vehicles are parked illegally?'), testing rule application.","""Image: Street with cars. Q: How many cars are blocking the sidewalk? (A) 1 (B) 2 (C) 3 (D) 4""",
+Apply,Open Vocabulary Object Detection,"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Open Vocabulary Object Detection'. The model must extract precise values or states from the image and process them through the logic of 'Open Vocabulary Object Detection' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Open Vocabulary Object Detection' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Open Vocabulary Object Detection' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Open Vocabulary Object Detection' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply,Clock Reading,"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Clock Reading'. The model must extract precise values or states from the image and process them through the logic of 'Clock Reading' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Clock Reading' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Clock Reading' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Clock Reading' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply,Procedural Step Following,"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Procedural Step Following'. The model must extract precise values or states from the image and process them through the logic of 'Procedural Step Following' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Procedural Step Following' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Procedural Step Following' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Procedural Step Following' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply,Applying a Scientific Concept,"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Applying a Scientific Concept'. The model must extract precise values or states from the image and process them through the logic of 'Applying a Scientific Concept' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Applying a Scientific Concept' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Applying a Scientific Concept' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Applying a Scientific Concept' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply,Applying a Design Principle,"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Applying a Design Principle'. The model must extract precise values or states from the image and process them through the logic of 'Applying a Design Principle' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Applying a Design Principle' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Applying a Design Principle' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Applying a Design Principle' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply,Applying a Mathematical Formula,"This task tests the VLM's ability to apply external rules, procedures, or formulas to a visual scenario involving 'Applying a Mathematical Formula'. The model must extract precise values or states from the image and process them through the logic of 'Applying a Mathematical Formula' to solve a problem or predict a physical/procedural outcome.","Image Context: A visual setup (e.g., a machine, a clock, or a scientific diagram) where 'Applying a Mathematical Formula' defines the logic or rule to be applied. The image contains all the necessary data points required to reach a specific answer using that rule.
+
+Question: Applying the principles or rules of 'Applying a Mathematical Formula' to the visual variables presented in this image, what is the correct resulting state or value?
+
+(A) The state that results from a literal interpretation without applying the rule.
+
+(B) The precise outcome reached by correctly implementing the 'Applying a Mathematical Formula' procedure to the visual data.
+
+(C) A state that would be reached if a different, unrelated rule was applied.
+
+(D) An impossible outcome that violates the visual constraints of the scene.",
+Apply -> Practical Reasoning -> Tool Selection,Tool Selection,Evaluate the VLM's ability to identify a functional problem in a scene and select the most appropriate tool or object from a set of options to resolve it. Requires understanding of object utility beyond simple naming.,Image: A flat tire on a car. Question: Which item is essential to address the primary issue shown? (A) Screwdriver (B) Spare tire and jack (C) Hammer (D) Bicycle pump,
+Analyze -> Structured Data Analysis,Chemical Structure Analysis,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Chemical Structure Analysis'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Chemical Structure Analysis' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Chemical Structure Analysis' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Chemical Structure Analysis'.
+
+(C) The data provided by the 'Chemical Structure Analysis' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Chemical Structure Analysis' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Structured Data Analysis,Sheet Music Analysis,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Sheet Music Analysis'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Sheet Music Analysis' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Sheet Music Analysis' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Sheet Music Analysis'.
+
+(C) The data provided by the 'Sheet Music Analysis' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Sheet Music Analysis' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Structured Data Analysis,Document Analysis,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Document Analysis'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Document Analysis' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Document Analysis' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Document Analysis'.
+
+(C) The data provided by the 'Document Analysis' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Document Analysis' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Structured Data Analysis,Diagram Analysis,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Diagram Analysis'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Diagram Analysis' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Diagram Analysis' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Diagram Analysis'.
+
+(C) The data provided by the 'Diagram Analysis' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Diagram Analysis' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Structured Data Analysis,Chart Analysis,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Chart Analysis'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Chart Analysis' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Chart Analysis' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Chart Analysis'.
+
+(C) The data provided by the 'Chart Analysis' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Chart Analysis' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Structured Data Analysis,Table Analysis,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Table Analysis'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Table Analysis' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Table Analysis' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Table Analysis'.
+
+(C) The data provided by the 'Table Analysis' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Table Analysis' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Contextual Inference,Comparative Reasoning,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Comparative Reasoning'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Comparative Reasoning' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Comparative Reasoning' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Comparative Reasoning'.
+
+(C) The data provided by the 'Comparative Reasoning' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Comparative Reasoning' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Contextual Inference,Pronoun Resolution,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Pronoun Resolution'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Pronoun Resolution' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Pronoun Resolution' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Pronoun Resolution'.
+
+(C) The data provided by the 'Pronoun Resolution' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Pronoun Resolution' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Contextual Inference,Commonsense reasooning,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Commonsense reasooning'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Commonsense reasooning' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Commonsense reasooning' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Commonsense reasooning'.
+
+(C) The data provided by the 'Commonsense reasooning' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Commonsense reasooning' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Contextual Inference,Ellipsis Resolution,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Ellipsis Resolution'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Ellipsis Resolution' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Ellipsis Resolution' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Ellipsis Resolution'.
+
+(C) The data provided by the 'Ellipsis Resolution' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Ellipsis Resolution' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Contextual Inference,Ambiguity Resolution,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Ambiguity Resolution'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Ambiguity Resolution' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Ambiguity Resolution' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Ambiguity Resolution'.
+
+(C) The data provided by the 'Ambiguity Resolution' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Ambiguity Resolution' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Logical and Scientific Reasoning,Math Reasoning,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Math Reasoning'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Math Reasoning' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Math Reasoning' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Math Reasoning'.
+
+(C) The data provided by the 'Math Reasoning' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Math Reasoning' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Logical and Scientific Reasoning,Scientific Reasoning,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Scientific Reasoning'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Scientific Reasoning' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Scientific Reasoning' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Scientific Reasoning'.
+
+(C) The data provided by the 'Scientific Reasoning' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Scientific Reasoning' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Logical and Scientific Reasoning,Logic Reasoning,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Logic Reasoning'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Logic Reasoning' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Logic Reasoning' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Logic Reasoning'.
+
+(C) The data provided by the 'Logic Reasoning' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Logic Reasoning' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Atypical Attribute Identification,Color,"This task evaluates high-level cognitive deconstruction. The VLM must identify how the Color violates physical laws, typical visual norms, or logical consistency within the scene. It requires the model to compare the visual evidence against a 'world model' of reality to find anomalies.","""Image Context: A surreal or digitally edited image where an object possesses an impossible color (e.g., a 'Size' contradiction like a giant ant next to a house, or a 'Color' contradiction like a purple banana). Question: After analyzing the structural logic of the scene, what is the primary anomaly identified regarding the color? (A) The color exhibits an impossible physical attribute. (B) The color is normal but the lighting is incorrect. (C) The color matches the background too closely. (D) There is no anomaly present.""",
+Analyze -> Atypical Attribute Identification,Shape,"Evaluates the VLM's ability to detect 'impossible' or logically inconsistent shapes. This tests if the model can identify when a shape violates 3D perspective or geometric laws (e.g., a Penrose triangle or a square wheel).","Image Context: A bicycle leaning against a wall, but the front wheel is perfectly square while the back wheel is circular. Question: After analyzing the structural geometry of the vehicle, what is the primary logical anomaly identified? (A) The bicycle is missing its handlebars. (B) The shape of the front wheel is functionally impossible for the vehicle's intended use. (C) The bicycle is the wrong size for the wall. (D) The background is out of focus.",
+Analyze -> Atypical Attribute Identification,Size,"Tests the detection of 'Size' anomalies that violate the relative proportions of reality. It requires the model to know the typical scale of objects (e.g., a giant cat next to a skyscraper).","""Image Context: A kitchen counter where a standard coffee mug is sitting next to a toaster, but the mug is twice the height of the toaster. Question: Based on your knowledge of typical object scales, what is the primary anomaly regarding the 'Size' attribute in this scene? (A) The toaster is smaller than a spoon. (B) The coffee mug is disproportionately large compared to the toaster. (C) The objects are too far apart. (D) The mug is the same size as a breadcrumb.""",
+Analyze -> Atypical Attribute Identification,Texture,"This task requires the VLM to deconstruct a visual scene into its components and examine the relationships or anomalies associated with 'Texture'. It assesses high-level reasoning, such as identifying atypical attributes, resolving complex coreferences, or interpreting structured data (charts/diagrams) through logical deduction.","Image Context: A complex image featuring 'Texture' in a way that requires multi-step analysis (e.g., a graph with multiple trends, a scene with an 'impossible' object, or a sentence with ambiguous pronouns). The model must filter out distractors.
+
+Question: Based on an analytical deconstruction of the 'Texture' and its relationship to the surrounding visual evidence, what is the primary conclusion regarding its internal logic or the anomaly present?
+
+(A) The element is standard and aligns perfectly with its typical real-world properties.
+
+(B) A specific analytical check reveals a significant anomaly or pattern that distinguishes this instance of 'Texture'.
+
+(C) The data provided by the 'Texture' is self-contradictory when compared with the visual context.
+(D) The analysis shows that 'Texture' is the only element that does NOT contribute to the scene's logic.",
+Analyze -> Atypical Attribute Identification,Artistic Style,"""Assesses the model's ability to identify 'Stylistic Anachronisms' or inconsistencies where the style and the object's logic clash (e.g., a medieval knight holding a laser gun rendered in a 14th-century tapestry style).""","""Image Context: A classical oil painting of an 18th-century royal court, but one of the figures in the background is wearing a modern VR headset. Question: Analyze the stylistic and logical consistency of the image. What is the primary 'Anachronism' detected? (A) The color of the king's robe is too bright. (B) The presence of a modern digital device in a historical artistic setting. (C) The painting lacks a frame. (D) The style is too modern for the subject.""",
+Analyze -> Temporal Reasoning -> Sequence Inference,Preceding Event,"Tests the model's ability to infer the likely preceding action or event that led to the current visual state of the scene (e.g., inferring a glass was knocked over rather than placed).",Image: A shattered glass on the floor next to a table. Question: What most likely happened immediately before this image was captured? (A) Glass placed on floor (B) Glass knocked off table (C) Glass manufactured (D) Someone drinking,
+Evaluate -> Logical Coherence Evaluation,Conflicting Scenario evaluation,"This task assesses the model's capacity to judge visual content based on specific criteria like 'Conflicting Scenario evaluation'. It requires the VLM to compare the image against established standards of quality, safety, or logic, providing a justified critique based on observed evidence rather than just preference.","Image Context: A scenario that presents a dilemma, a quality issue, or a safety concern related to 'Conflicting Scenario evaluation'. The model must identify specific visual 'proof' to support its judgment according to the provided standard.
+
+Question: Evaluate the scene based on the criteria of 'Conflicting Scenario evaluation'. Which of the following assessments is most strongly supported by the visual evidence?
+
+(A) The scene is of optimal quality and adheres strictly to all requirements of 'Conflicting Scenario evaluation'.
+
+(B) There is a clear deficiency or violation of 'Conflicting Scenario evaluation', as evidenced by the specific interaction of the primary subjects.
+
+(C) The evaluation is inconclusive due to the presence of conflicting visual signals.
+
+(D) The 'Conflicting Scenario evaluation' standard is met by the background elements but fails for the main subject.",
+Evaluate -> Logical Coherence Evaluation,Object hallucination evaluation,"This task assesses the model's capacity to judge visual content based on specific criteria like 'Object hallucination evaluation'. It requires the VLM to compare the image against established standards of quality, safety, or logic, providing a justified critique based on observed evidence rather than just preference.","Image Context: A scenario that presents a dilemma, a quality issue, or a safety concern related to 'Object hallucination evaluation'. The model must identify specific visual 'proof' to support its judgment according to the provided standard.
+
+Question: Evaluate the scene based on the criteria of 'Object hallucination evaluation'. Which of the following assessments is most strongly supported by the visual evidence?
+
+(A) The scene is of optimal quality and adheres strictly to all requirements of 'Object hallucination evaluation'.
+
+(B) There is a clear deficiency or violation of 'Object hallucination evaluation', as evidenced by the specific interaction of the primary subjects.
+
+(C) The evaluation is inconclusive due to the presence of conflicting visual signals.
+
+(D) The 'Object hallucination evaluation' standard is met by the background elements but fails for the main subject.",
+Evaluate -> Quality Evaluation,Artistic Evaluation,"This task assesses the model's capacity to judge visual content based on specific criteria like 'Artistic Evaluation'. It requires the VLM to compare the image against established standards of quality, safety, or logic, providing a justified critique based on observed evidence rather than just preference.","Image Context: A scenario that presents a dilemma, a quality issue, or a safety concern related to 'Artistic Evaluation'. The model must identify specific visual 'proof' to support its judgment according to the provided standard.
+
+Question: Evaluate the scene based on the criteria of 'Artistic Evaluation'. Which of the following assessments is most strongly supported by the visual evidence?
+
+(A) The scene is of optimal quality and adheres strictly to all requirements of 'Artistic Evaluation'.
+
+(B) There is a clear deficiency or violation of 'Artistic Evaluation', as evidenced by the specific interaction of the primary subjects.
+
+(C) The evaluation is inconclusive due to the presence of conflicting visual signals.
+
+(D) The 'Artistic Evaluation' standard is met by the background elements but fails for the main subject.",
+Evaluate -> Quality Evaluation,Design Critique,"Assesses identifying violations of design principles (alignment, contrast) in a UI or layout rather than subjective preference.","""Image: UI with low contrast button. Q: Which principle is violated? (A) Alignment (B) Contrast (C) Repetition (D) Proximity""",
+Evaluate -> Quality Evaluation,Image Quality Assessment,"This task assesses the model's capacity to judge visual content based on specific criteria like 'Image Quality Assessment'. It requires the VLM to compare the image against established standards of quality, safety, or logic, providing a justified critique based on observed evidence rather than just preference.","Image Context: A scenario that presents a dilemma, a quality issue, or a safety concern related to 'Image Quality Assessment'. The model must identify specific visual 'proof' to support its judgment according to the provided standard.
+
+Question: Evaluate the scene based on the criteria of 'Image Quality Assessment'. Which of the following assessments is most strongly supported by the visual evidence?
+
+(A) The scene is of optimal quality and adheres strictly to all requirements of 'Image Quality Assessment'.
+
+(B) There is a clear deficiency or violation of 'Image Quality Assessment', as evidenced by the specific interaction of the primary subjects.
+
+(C) The evaluation is inconclusive due to the presence of conflicting visual signals.
+
+(D) The 'Image Quality Assessment' standard is met by the background elements but fails for the main subject.",
+Evaluate -> Harm & Safety Evaluation,Safety Evaluation,"This task assesses the model's capacity to judge visual content based on specific criteria like 'Safety Evaluation'. It requires the VLM to compare the image against established standards of quality, safety, or logic, providing a justified critique based on observed evidence rather than just preference.","Image Context: A scenario that presents a dilemma, a quality issue, or a safety concern related to 'Safety Evaluation'. The model must identify specific visual 'proof' to support its judgment according to the provided standard.
+
+Question: Evaluate the scene based on the criteria of 'Safety Evaluation'. Which of the following assessments is most strongly supported by the visual evidence?
+
+(A) The scene is of optimal quality and adheres strictly to all requirements of 'Safety Evaluation'.
+
+(B) There is a clear deficiency or violation of 'Safety Evaluation', as evidenced by the specific interaction of the primary subjects.
+
+(C) The evaluation is inconclusive due to the presence of conflicting visual signals.
+
+(D) The 'Safety Evaluation' standard is met by the background elements but fails for the main subject.",
+Evaluate -> Harm & Safety Evaluation,Toxicity Detection,"This task assesses the model's capacity to judge visual content based on specific criteria like 'Toxicity Detection'. It requires the VLM to compare the image against established standards of quality, safety, or logic, providing a justified critique based on observed evidence rather than just preference.","Image Context: A scenario that presents a dilemma, a quality issue, or a safety concern related to 'Toxicity Detection'. The model must identify specific visual 'proof' to support its judgment according to the provided standard.
+
+Question: Evaluate the scene based on the criteria of 'Toxicity Detection'. Which of the following assessments is most strongly supported by the visual evidence?
+
+(A) The scene is of optimal quality and adheres strictly to all requirements of 'Toxicity Detection'.
+
+(B) There is a clear deficiency or violation of 'Toxicity Detection', as evidenced by the specific interaction of the primary subjects.
+
+(C) The evaluation is inconclusive due to the presence of conflicting visual signals.
+
+(D) The 'Toxicity Detection' standard is met by the background elements but fails for the main subject.",
+Evaluate -> Harm & Safety Evaluation,Contextual Suitability,"This task assesses the model's capacity to judge visual content based on specific criteria like 'Contextual Suitability'. It requires the VLM to compare the image against established standards of quality, safety, or logic, providing a justified critique based on observed evidence rather than just preference.","Image Context: A scenario that presents a dilemma, a quality issue, or a safety concern related to 'Contextual Suitability'. The model must identify specific visual 'proof' to support its judgment according to the provided standard.
+
+Question: Evaluate the scene based on the criteria of 'Contextual Suitability'. Which of the following assessments is most strongly supported by the visual evidence?
+
+(A) The scene is of optimal quality and adheres strictly to all requirements of 'Contextual Suitability'.
+
+(B) There is a clear deficiency or violation of 'Contextual Suitability', as evidenced by the specific interaction of the primary subjects.
+
+(C) The evaluation is inconclusive due to the presence of conflicting visual signals.
+
+(D) The 'Contextual Suitability' standard is met by the background elements but fails for the main subject.",
+Evaluate -> Harm & Safety Evaluation,Age-Appropriateness,"This task assesses the model's capacity to judge visual content based on specific criteria like 'Age-Appropriateness'. It requires the VLM to compare the image against established standards of quality, safety, or logic, providing a justified critique based on observed evidence rather than just preference.","Image Context: A scenario that presents a dilemma, a quality issue, or a safety concern related to 'Age-Appropriateness'. The model must identify specific visual 'proof' to support its judgment according to the provided standard.
+
+Question: Evaluate the scene based on the criteria of 'Age-Appropriateness'. Which of the following assessments is most strongly supported by the visual evidence?
+
+(A) The scene is of optimal quality and adheres strictly to all requirements of 'Age-Appropriateness'.
+
+(B) There is a clear deficiency or violation of 'Age-Appropriateness', as evidenced by the specific interaction of the primary subjects.
+
+(C) The evaluation is inconclusive due to the presence of conflicting visual signals.
+
+(D) The 'Age-Appropriateness' standard is met by the background elements but fails for the main subject.",
+Evaluate -> Harm & Safety Evaluation,Cultural Sensitivity,"This task assesses the model's capacity to judge visual content based on specific criteria like 'Cultural Sensitivity'. It requires the VLM to compare the image against established standards of quality, safety, or logic, providing a justified critique based on observed evidence rather than just preference.","Image Context: A scenario that presents a dilemma, a quality issue, or a safety concern related to 'Cultural Sensitivity'. The model must identify specific visual 'proof' to support its judgment according to the provided standard.
+
+Question: Evaluate the scene based on the criteria of 'Cultural Sensitivity'. Which of the following assessments is most strongly supported by the visual evidence?
+
+(A) The scene is of optimal quality and adheres strictly to all requirements of 'Cultural Sensitivity'.
+
+(B) There is a clear deficiency or violation of 'Cultural Sensitivity', as evidenced by the specific interaction of the primary subjects.
+
+(C) The evaluation is inconclusive due to the presence of conflicting visual signals.
+
+(D) The 'Cultural Sensitivity' standard is met by the background elements but fails for the main subject.",
+Evaluate -> Logic & Consistency -> Visual Contradiction,Visual Contradiction,"Requires the model to identify visual elements that are logically inconsistent with each other within the same scene, such as shadows and light sources not matching.","Image: Street scene where the sun is on the left, but shadows cast to the left. Question: What is logically incorrect? (A) Street empty (B) Shadow direction inconsistent (C) Sky color (D) No people",
+Create,Image Captioning,"This task involves the synthesis of visual and conceptual information to generate new, original content or predict outcomes inspired by 'Image Captioning'. It represents the highest cognitive tier, testing the model's ability to 'imagine' or 'construct' narratives, questions, or creative responses grounded in the scene.","Image Context: A rich and evocative visual prompt where 'Image Captioning' provides the thematic or structural basis for a creative output. The model must go beyond the visible pixels to synthesize a novel response that is both creative and logically consistent.
+
+Question: Inspired by the visual context and the theme of 'Image Captioning', which of the following represents the most comprehensive and creative synthesis or extension of this scene?
+
+(A) A purely literal description of the objects currently visible in the frame.
+
+(B) A creative or predictive output that logically extends the 'Image Captioning' theme while maintaining visual grounding.
+(C) A response that focuses on a single technical attribute and ignores the creative prompt.
+(D) A synthesized response that contradicts the established mood of the scene.",
+Create,Visual Stroytelling,"This task involves the synthesis of visual and conceptual information to generate new, original content or predict outcomes inspired by 'Visual Stroytelling'. It represents the highest cognitive tier, testing the model's ability to 'imagine' or 'construct' narratives, questions, or creative responses grounded in the scene.","Image Context: A rich and evocative visual prompt where 'Visual Stroytelling' provides the thematic or structural basis for a creative output. The model must go beyond the visible pixels to synthesize a novel response that is both creative and logically consistent.
+
+Question: Inspired by the visual context and the theme of 'Visual Stroytelling', which of the following represents the most comprehensive and creative synthesis or extension of this scene?
+
+(A) A purely literal description of the objects currently visible in the frame.
+
+(B) A creative or predictive output that logically extends the 'Visual Stroytelling' theme while maintaining visual grounding.
+(C) A response that focuses on a single technical attribute and ignores the creative prompt.
+(D) A synthesized response that contradicts the established mood of the scene.",
+Create,Image-based Question Generation,"This task involves the synthesis of visual and conceptual information to generate new, original content or predict outcomes inspired by 'Image-based Question Generation'. It represents the highest cognitive tier, testing the model's ability to 'imagine' or 'construct' narratives, questions, or creative responses grounded in the scene.","Image Context: A rich and evocative visual prompt where 'Image-based Question Generation' provides the thematic or structural basis for a creative output. The model must go beyond the visible pixels to synthesize a novel response that is both creative and logically consistent.
+
+Question: Inspired by the visual context and the theme of 'Image-based Question Generation', which of the following represents the most comprehensive and creative synthesis or extension of this scene?
+
+(A) A purely literal description of the objects currently visible in the frame.
+
+(B) A creative or predictive output that logically extends the 'Image-based Question Generation' theme while maintaining visual grounding.
+(C) A response that focuses on a single technical attribute and ignores the creative prompt.
+(D) A synthesized response that contradicts the established mood of the scene.",
+Create -> Creative Generation,Poem,"This task involves the synthesis of visual and conceptual information to generate new, original content or predict outcomes inspired by 'Poem'. It represents the highest cognitive tier, testing the model's ability to 'imagine' or 'construct' narratives, questions, or creative responses grounded in the scene.","Image Context: A rich and evocative visual prompt where 'Poem' provides the thematic or structural basis for a creative output. The model must go beyond the visible pixels to synthesize a novel response that is both creative and logically consistent.
+
+Question: Inspired by the visual context and the theme of 'Poem', which of the following represents the most comprehensive and creative synthesis or extension of this scene?
+
+(A) A purely literal description of the objects currently visible in the frame.
+
+(B) A creative or predictive output that logically extends the 'Poem' theme while maintaining visual grounding.
+(C) A response that focuses on a single technical attribute and ignores the creative prompt.
+(D) A synthesized response that contradicts the established mood of the scene.",
+Create -> Creative Generation,Joke,"This task involves the synthesis of visual and conceptual information to generate new, original content or predict outcomes inspired by 'Joke'. It represents the highest cognitive tier, testing the model's ability to 'imagine' or 'construct' narratives, questions, or creative responses grounded in the scene.","Image Context: A rich and evocative visual prompt where 'Joke' provides the thematic or structural basis for a creative output. The model must go beyond the visible pixels to synthesize a novel response that is both creative and logically consistent.
+
+Question: Inspired by the visual context and the theme of 'Joke', which of the following represents the most comprehensive and creative synthesis or extension of this scene?
+
+(A) A purely literal description of the objects currently visible in the frame.
+
+(B) A creative or predictive output that logically extends the 'Joke' theme while maintaining visual grounding.
+(C) A response that focuses on a single technical attribute and ignores the creative prompt.
+(D) A synthesized response that contradicts the established mood of the scene.",
+Create -> Creative Generation,Short story,"This task involves the synthesis of visual and conceptual information to generate new, original content or predict outcomes inspired by 'Short story'. It represents the highest cognitive tier, testing the model's ability to 'imagine' or 'construct' narratives, questions, or creative responses grounded in the scene.","Image Context: A rich and evocative visual prompt where 'Short story' provides the thematic or structural basis for a creative output. The model must go beyond the visible pixels to synthesize a novel response that is both creative and logically consistent.
+
+Question: Inspired by the visual context and the theme of 'Short story', which of the following represents the most comprehensive and creative synthesis or extension of this scene?
+
+(A) A purely literal description of the objects currently visible in the frame.
+
+(B) A creative or predictive output that logically extends the 'Short story' theme while maintaining visual grounding.
+(C) A response that focuses on a single technical attribute and ignores the creative prompt.
+(D) A synthesized response that contradicts the established mood of the scene.",
+Create -> Creative Generation,Creative Title Generation,"This task involves the synthesis of visual and conceptual information to generate new, original content or predict outcomes inspired by 'Creative Title Generation'. It represents the highest cognitive tier, testing the model's ability to 'imagine' or 'construct' narratives, questions, or creative responses grounded in the scene.","Image Context: A rich and evocative visual prompt where 'Creative Title Generation' provides the thematic or structural basis for a creative output. The model must go beyond the visible pixels to synthesize a novel response that is both creative and logically consistent.
+
+Question: Inspired by the visual context and the theme of 'Creative Title Generation', which of the following represents the most comprehensive and creative synthesis or extension of this scene?
+
+(A) A purely literal description of the objects currently visible in the frame.
+
+(B) A creative or predictive output that logically extends the 'Creative Title Generation' theme while maintaining visual grounding.
+(C) A response that focuses on a single technical attribute and ignores the creative prompt.
+(D) A synthesized response that contradicts the established mood of the scene.",
+Create,Dialogue Generation,"This task involves the synthesis of visual and conceptual information to generate new, original content or predict outcomes inspired by 'Dialogue Generation'. It represents the highest cognitive tier, testing the model's ability to 'imagine' or 'construct' narratives, questions, or creative responses grounded in the scene.","Image Context: A rich and evocative visual prompt where 'Dialogue Generation' provides the thematic or structural basis for a creative output. The model must go beyond the visible pixels to synthesize a novel response that is both creative and logically consistent.
+
+Question: Inspired by the visual context and the theme of 'Dialogue Generation', which of the following represents the most comprehensive and creative synthesis or extension of this scene?
+
+(A) A purely literal description of the objects currently visible in the frame.
+
+(B) A creative or predictive output that logically extends the 'Dialogue Generation' theme while maintaining visual grounding.
+(C) A response that focuses on a single technical attribute and ignores the creative prompt.
+(D) A synthesized response that contradicts the established mood of the scene.",
+Create,Designing an Experiment,Display a setup and ask the V-LM to choose the next step required to properly test a hypothesis (e.g.,what is the control group?). This task assesses the model's ability to understand scientific methodology and experimental variables within a visual context.,"Image Context: A diagram showing two identical potted plants. Plant A is placed under a grow light, and Plant B is placed in a dark cupboard. Both are labeled as receiving the same amount of water.
+
+Question: To properly test the hypothesis that ""light is necessary for plant growth,"" what essential element is missing or incorrectly applied in this experimental design?
+
+(A) There should be more plants in each group.
+
+(B) The plants should receive different amounts of water.
+
+(C) A control group where a plant receives no light but also no water.
+
+(D) A control variable where Plant B is also exposed to light, but for a shorter duration."
+Create,Counterfactual Creation,"This task assesses the VLM's ability to reason about ""what if"" scenarios. Given an image, the model must infer the most plausible or logical outcome if a key element in the scene were different. This requires understanding causality and predicting changes based on a hypothetical modification of the visual evidence.","Image Context: A photograph of a person holding a partially melted ice cream cone on a very hot, sunny day.
+
+Question: If the person had bought the ice cream on a cold, overcast day instead, what would be the most likely difference in the image?
+
+(A) The person would be wearing a coat.
+
+(B) The ice cream would be melting much slower.
+
+(C) The ice cream flavor would be different.
+
+(D) The person would be indoors.",
+Create -> Creative Generation,Meme Caption Creative Generation,"This task evaluates the VLM's ability to understand the context, humor, and typical conventions of internet memes, and then choose a caption that is creatively fitting or humorous. This taps into cultural understanding, inferencing, and creative language generation (albeit in a selection format).","Image Context: The ""Disaster Girl"" meme – a photo of a young girl smirking mischievously while a house burns in the background.
+
+Question: Which of the following captions best captures the common humorous intent of this meme image?
+
+(A) ""My face when I realize I forgot my keys.""
+
+(B) ""Me after sending that email I proofread 100 times.""
+
+(C) ""When you accidentally break something but pretend you didn't.""
+
+(D) ""How I look at my grades after studying all night.""",
+Create -> Scenario Synthesis -> Narrative Extension,Narrative Extension,"Asks the model to synthesize the visual cues into a coherent narrative that extends beyond the immediate frame, testing complex creative and causal reasoning.","Image: Empty, messy classroom with one backpack. Question: Which narrative best explains this room? (A) Students arriving (B) Sudden fire drill (C) Janitor finished cleaning (D) School is closed",

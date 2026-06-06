@@ -1,0 +1,26 @@
+{
+    "scenarios": [
+        "Car speeding on highway exhibiting heavy motion blur.",
+        "Grainy low-light street photography with visible noise.",
+        "Overexposed portrait with blown-out highlights in background.",
+        "Out-of-focus blurry image of a forest landscape.",
+        "Sharp, high-resolution portrait of an elderly Arab man.",
+        "Macro photography of a flower with shallow depth of field.",
+        "Pixelated low-resolution image of a mountain range.",
+        "Photograph with strong lens flare obscuring the subject.",
+        "Intricate geometric tile patterns in a Moroccan courtyard.",
+        "High-contrast black and white silhouette of a city skyline."
+    ],
+    "keywords": [
+        "car heavy motion blur photography",
+        "grainy high ISO night street photo",
+        "overexposed portrait blown out highlights",
+        "out of focus blurry forest landscape",
+        "detailed portrait elderly Arab man keffiyeh",
+        "macro flower photography shallow depth of field",
+        "pixelated low resolution mountain photo",
+        "sun lens flare photography artifact",
+        "Moroccan zellige tile geometric patterns detailed",
+        "high contrast black and white city silhouette"
+    ]
+}

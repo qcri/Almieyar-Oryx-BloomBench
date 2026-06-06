@@ -1,0 +1,12 @@
+VLMConfig:
+  exp: exp1
+  model_name: google/gemma-3-27b-it
+  dataset: bloom
+  lang: en
+  temperature: 0
+  eval_method: hybrid
+  cache_dir: ./cache/
+  gpu_id: 0
+  device_map: cuda
+  hf_token: 
+  lora: Null

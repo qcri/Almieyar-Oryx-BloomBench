@@ -1,0 +1,26 @@
+{
+    "scenarios": [
+        "Car parked sideways across two designated parking spaces in a paved lot.",
+        "Ambulance with rear doors wide open parked alone on a grassy field.",
+        "Sedan pulled over on highway shoulder with hood raised and steam billowing out.",
+        "Yellow wheel clamp attached to the front tire of a parked sports car.",
+        "White 4x4 vehicle deeply stuck in steep desert sand dunes.",
+        "Delivery truck blocking a narrow cobblestone street with hazard lights flashing.",
+        "Police cruiser parked diagonally across an intersection with light bar illuminated.",
+        "Old pickup truck resting on cinder blocks without wheels in a dusty yard.",
+        "Minivan with a completely flat front tire sitting in a suburban driveway.",
+        "Abandoned vehicle half-submerged in a shallow rocky wadi riverbed."
+    ],
+    "keywords": [
+        "car parked sideways across two spaces",
+        "ambulance rear doors open parked grass",
+        "car pulled over hood raised steam",
+        "yellow wheel clamp sports car tire",
+        "4x4 vehicle stuck desert sand dunes",
+        "delivery truck blocking narrow cobblestone street",
+        "police car diagonally blocking intersection lights",
+        "pickup truck on cinder blocks yard",
+        "minivan flat tire suburban driveway",
+        "abandoned car submerged wadi riverbed"
+    ]
+}

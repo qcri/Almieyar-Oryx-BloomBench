@@ -1,0 +1,26 @@
+{
+    "scenarios": [
+        "Four coffee mugs on a kitchen counter, only one missing a handle.",
+        "Platter of stuffed grape leaves where one piece is unwrapped and spilling rice.",
+        "Electrical breaker box with multiple switches flipped up and exactly one switched down.",
+        "Five parking spaces lined up, four occupied by cars and one completely empty.",
+        "A row of traditional brass lanterns hanging, all illuminated except one unlit lantern.",
+        "A field of blooming yellow sunflowers with a single withered brown sunflower in the middle.",
+        "Traditional patterned rugs rolled up, except for one rug spread flat on the floor.",
+        "Set of metal gears on a shaft where one gear completely lacks teeth.",
+        "Row of wooden folding chairs, all facing forward except one facing backward.",
+        "Desk with several closed laptops and one open laptop displaying a blank black screen."
+    ],
+    "keywords": [
+        "four coffee mugs counter one missing handle",
+        "stuffed grape leaves platter one unwrapped",
+        "breaker box switches up one down",
+        "parking lot row of cars one empty space",
+        "row hanging brass lanterns one unlit",
+        "field of sunflowers one withered",
+        "rolled up traditional rugs one spread flat",
+        "row of metal gears one missing teeth",
+        "row of folding chairs one facing backward",
+        "desk closed laptops one open"
+    ]
+}

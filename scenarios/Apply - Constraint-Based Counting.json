@@ -1,0 +1,26 @@
+{
+    "scenarios": [
+        "Cars parked legally in marked spots alongside vehicles illegally parked on the sidewalk.",
+        "Construction site workers where some wear bright yellow hard hats and others wear no headgear.",
+        "Large wooden bowl containing a mix of bright red ripe tomatoes and firm green unripe tomatoes.",
+        "Traditional Arabic majlis gathering where a few seated men hold small coffee cups while others do not.",
+        "Flock of birds where a portion is perched on a fence and the rest are actively flying.",
+        "Modern office desks covered with laptops, where only a few devices have illuminated screens.",
+        "Dining table featuring several plates, some completely empty and others still holding half-eaten food.",
+        "Street view showing some bicycles locked properly to a rack and others leaning unsecured against walls.",
+        "Grocery store parking lot with shopping carts placed inside the designated corral and others abandoned.",
+        "MENA region market stall with hanging brass lanterns, where only specific lanterns have lit candles inside."
+    ],
+    "keywords": [
+        "cars parked on sidewalk next to legally parked cars street",
+        "construction site workers some with yellow hard hats some without",
+        "wooden bowl mixed red ripe and green unripe tomatoes",
+        "Arabic majlis men sitting some holding coffee cups",
+        "birds perched on wooden fence and birds flying",
+        "office desks multiple laptops some screens on some off",
+        "dining table empty plates and plates with food remaining",
+        "bicycles locked to rack and unsecured bicycles leaning on wall",
+        "parking lot shopping carts inside corral and abandoned",
+        "MENA market stall hanging brass lanterns some lit some unlit"
+    ]
+}
