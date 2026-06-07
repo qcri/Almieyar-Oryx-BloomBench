@@ -4,8 +4,8 @@
 
 **BloomBench** is a cognitively grounded, **bilingual (English–Arabic)** multimodal benchmark for evaluating **vision–language models (VLMs)**. Part of the **Almieyar** benchmarking series, it organizes tasks according to **Bloom’s revised taxonomy**—from *Remember* through *Create*—so that performance reflects **where** models succeed or fail in multimodal reasoning, not only aggregate accuracy.
 
-This repository accompanies the paper *Almieyar-Oryx-BloomBench: A Bilingual Multimodal Benchmark for Cognitively Informed Evaluation of Vision-Language Models*.
-This paper has been accepted for publication in the **[ACL 2026](https://2026.aclweb.org/) Findings**.
+This is the official repository for the paper *Almieyar-Oryx-BloomBench: A Bilingual Multimodal Benchmark for Cognitively Informed Evaluation of Vision-Language Models*, accepted to **[ACL 2026](https://2026.aclweb.org/) Findings**.
+
 ---
 
 ## Why BloomBench?
