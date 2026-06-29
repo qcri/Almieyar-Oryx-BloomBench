@@ -1,6 +1,7 @@
 # Almieyar-Oryx-BloomBench
 
 [![arXiv](https://img.shields.io/badge/arXiv-2606.05531-b31b1b.svg)](https://arxiv.org/abs/2606.05531) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/QCRI/BloomBench)
+[![ACL](https://img.shields.io/badge/ACL-Anthology-007ec6.svg)](https://aclanthology.org/2026.findings-acl.1416/)
 
 **BloomBench** is a cognitively grounded, **bilingual (English–Arabic)** multimodal benchmark for evaluating **vision–language models (VLMs)**. Part of the **Almieyar** benchmarking series, it organizes tasks according to **Bloom’s revised taxonomy**—from *Remember* through *Create*—so that performance reflects **where** models succeed or fail in multimodal reasoning, not only aggregate accuracy.
 
