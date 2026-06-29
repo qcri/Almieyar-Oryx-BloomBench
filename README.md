@@ -117,13 +117,26 @@ python cli.py --config configs/new_config.yaml
 ## Citation
 
 ```bibtex
-@misc{abootorabi2026almieyaroryxbloombenchbilingualmultimodalbenchmark,
-      title={Almieyar-Oryx-BloomBench: A Bilingual Multimodal Benchmark for Cognitively Informed Evaluation of Vision-Language Models}, 
-      author={Mohammad Mahdi Abootorabi and Omid Ghahroodi and Anas Madkoor and Marzia Nouri and Doratossadat Dastgheib and Mohamed Hefeeda and Ehsaneddin Asgari},
-      year={2026},
-      eprint={2606.05531},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2606.05531}, 
+@inproceedings{abootorabi-etal-2026-almieyar,
+    title = "Almieyar-Oryx-{B}loom{B}ench: A Bilingual Multimodal Benchmark for Cognitively Informed Evaluation of Vision-Language Models",
+    author = "Abootorabi, Mohammad Mahdi  and
+      Ghahroodi, Omid  and
+      Madkoor, Anas  and
+      Nouri, Marzia  and
+      Dastgheib, Doratossadat  and
+      Asgari, Ehsaneddin",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.1416/",
+    pages = "28404--28436",
+    ISBN = "979-8-89176-395-1",
+    abstract = "Despite the rapid progress of Vision-Language Models (VLMs), the field lacks benchmarks that rigorously diagnose their true reasoning abilities and chart meaningful progress toward human-like multimodal intelligence. Most existing evaluations focus on piecemeal or disconnected tasks, obscuring critical cognitive weaknesses and providing little insight for targeted improvement.To address this gap, we introduce \textbf{BloomBench}, part of the \textit{Almieyar} benchmarking series, the first cognitively human-grounded, bilingual (English{--}Arabic) multimodal benchmark for VLMs. Grounded in Bloom{'}s Taxonomy, BloomBench systematically evaluates six levels of cognition (Remember, Understand, Apply, Analyze, Evaluate, Create) through carefully designed image{--}question{--}answer tasks. Built with a semi-automated pipeline and validated through a stratified hybrid quality assurance protocol, it ensures scalability, cultural inclusivity, and linguistic fidelity. Leveraging this framework, we conduct a comprehensive study of state-of-the-art VLMs to diagnose their cognitive profiles. Our analysis reveals a sharp cognitive asymmetry: while state-of-the-art models achieve strong performance ceilings in semantic understanding, they struggle substantially with factual recall and creative synthesis. This demonstrates that current general multimodal proficiency masks deeper limitations in specific cognitive layers.Furthermore, our study highlights a critical performance gap between Arabic and English, exposing limitations in current cross-lingual multimodal reasoning. These findings establish a foundation for developing more cognitively aligned and inclusive VLMs.The benchmark framework and dataset is available at: \url{https://github.com/qcri/Almieyar-Oryx-BloomBench}."
 }
 ```
